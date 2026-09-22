@@ -4,5 +4,5 @@ version = "0.1.0"
 description = "Coursework and study notes from my Systems Analysis and Development degree and related courses."
 readme = "README.md"
 authors = [{ name = "Alexandre Patricio" }]
-requires-python = ">=3.14"
+requires-python = ">=3.11.4,<3.12"
 dependencies = []

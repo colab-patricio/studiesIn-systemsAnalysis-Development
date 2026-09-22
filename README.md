@@ -35,13 +35,6 @@ Each subject folder contains its assessment deliverables (for example `AT` and `
 - **[Curso em Vídeo](https://www.cursoemvideo.com/)** by Gustavo Guanabara
 - **[The Odin Project](https://www.theodinproject.com/)**
 
-## Tech stack
-
-- **Python** 3.14+
-- **Jupyter Notebook / Google Colab** for data analysis (pandas, NumPy, Matplotlib)
-- **[uv](https://docs.astral.sh/uv/)** for environment and dependency management
-- **HTML, CSS and JavaScript** (The Odin Project) + Ruby On Rails
-
 ## Getting started
 
 Clone the repository and set up the Python environment with uv:
