@@ -1,4 +1,9 @@
-""""Faça um programa que receba uma hora (uma variável para hora e outra para minutos), calcule e mostre:
+"""Graduação em: Tec. em análise e desenvolvimento de sistemas
+Instituição: UniverSO - Campos dos Goytacazes/RJ
+Disciplina: Lógica e algoritmos de programação I
+Discente: Alexandre de Oliveira Tinoco Patricio"""
+
+""""Q1. Faça um programa que receba uma hora (uma variável para hora e outra para minutos), calcule e mostre:
 a. A hora convertida em minutos;
 b. O total dos minutos, ou seja, os minutos digitados mais a conversão anterior;
 c. O total dos minutos convertidos em segundos."""
@@ -14,7 +19,7 @@ total_minutos = hora_em_minutos + minutos # b) Total de minutos
 # c) Total de minutos convertido em segundos
 total_segundos = total_minutos * 60
 
-# Resultados
+# Imprimir os resultados
 print("Hora convertida em minutos:", hora_em_minutos)
 print("Total de minutos:", total_minutos)
 print("Total de minutos em segundos:", total_segundos)
