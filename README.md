@@ -4,7 +4,7 @@ This repository collects the coursework I completed during my undergraduate degr
 
 Its purpose is to keep a record of my learning path: exercises, assessments and small projects, organized by semester and subject.
 
-> **Note:** The course material is in Brazilian Portuguese, so problem statements, comments and variable names are written in Portuguese.
+> **Note:** The course material is in Brazilian Portuguese, so problem statements, comments and variable names are mostly written in Portuguese.
 
 ## Repository structure
 
@@ -23,7 +23,10 @@ Its purpose is to keep a record of my learning path: exercises, assessments and 
 │   └── 5th_semester/
 ├── Cursos/                             # Complementary courses
 │   ├── cursoemvideo_por_gustavoGuanabara/  # Curso em Vídeo (Gustavo Guanabara)
+│   ├── hashtagProgramação/                 # Hashtag Programação
+│   ├── havardCS50_courses/                 # Havard University CS50: Introduction to Computer Science
 │   └── theOdin_project/                    # The Odin Project
+├── Projects/                           # Projects developed during the learning process
 ├── pyproject.toml                      # Python project config (uv)
 └── uv.lock
 ```
@@ -33,6 +36,8 @@ Each subject folder contains its assessment deliverables (for example `AT` and `
 ### Complementary courses
 
 - **[Curso em Vídeo](https://www.cursoemvideo.com/)** by Gustavo Guanabara
+- **[Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)**
+- **[CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)**
 - **[The Odin Project](https://www.theodinproject.com/)**
 
 ## Getting started
