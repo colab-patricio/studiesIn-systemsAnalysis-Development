@@ -5,4 +5,6 @@ description = "Coursework and study notes from my Systems Analysis and Developme
 readme = "README.md"
 authors = [{ name = "Alexandre Patricio" }]
 requires-python = ">=3.11.4,<3.12"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.3.0",
+]
